@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "*.css": "css",
+    "vector": "cpp",
+    "initializer_list": "cpp",
+    "valarray": "cpp",
+    "new": "cpp",
+    "ostream": "cpp",
+    "type_traits": "cpp",
+    "iostream": "cpp",
+    "cmath": "cpp",
+    "cstdlib": "cpp",
+    "random": "cpp"
+  },
+  "cph.general.onceMaintainerMessage": false
+}
