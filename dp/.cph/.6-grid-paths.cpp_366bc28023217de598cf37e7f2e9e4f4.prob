@@ -1,0 +1,1 @@
+{"name":"Local: 6-grid-paths","url":"c:\\Users\\bhalo\\OneDrive\\Desktop\\cses\\dp\\6-grid-paths.cpp","tests":[{"id":1704879073320,"input":"4\n....\n.*..\n...*\n*...","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\bhalo\\OneDrive\\Desktop\\cses\\dp\\6-grid-paths.cpp","group":"local","local":true}
